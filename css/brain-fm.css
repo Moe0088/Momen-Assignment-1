@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+   font-family: sans-serif;
+    background-color: #3f18f0;
+    width: 100%;
+}
+.section-1 {
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding:10px ;
+
+}
+
+input[type=button] {
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 70px;
+    background-color: orange;
+}
+
+
+
+a:visited {
+    color: white;
+  }
+a :hover {
+    color:red;
+}
+
+.headline-1 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.section-2 {
+   background-color: #3f18f0;
+   color: white;
+   font-family: sans-serif;
+   display: flex;
+   
+
+
+}
+.picture-3 { 
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
