@@ -1,8 +1,9 @@
 body {
     margin: 0px;
    font-family: sans-serif;
-    background-color: #3f18f0;
+    background-color: #4912f6;
     width: 100%;
+    align-items: center;
    
 
 }
@@ -39,7 +40,7 @@ a :hover {
 }
 
 .section-2 {
-   background-color: #3f18f0;
+  
    color: white;
    font-family: sans-serif;
    display: flex;
@@ -52,6 +53,12 @@ a :hover {
     width: 100%;
 }
 
+#pic {
+    margin-left: 200px;
+  border: 0px;
+   width: 70%;
+   
+}
 
 
 
